@@ -7,3 +7,5 @@ This project is designed to use an arduino to read from sensors, log the sensor 
 bundle install --path vendor/bundle
 bundle exec arduino_ci_remote.rb
 ```
+
+trying to make a change...
